@@ -2,14 +2,14 @@
 
 # 🧠 PromptGen — LLM Prompt Engineering Playground  
 ### A modular, multi-provider prompt engineering platform powered by OpenAI, Groq & Ollama
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
-![LLM](https://img.shields.io/badge/LLM-OpenAI%20%7C%20Groq%20%7C%20Ollama-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-Prompt%20Engineering-blue.svg" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-yellow.svg" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Naveed05/promptgen-llm-prompt-engineering/ci.yml?label=CI%20Build" />
+  <img src="https://img.shields.io/github/last-commit/Naveed05/promptgen-llm-prompt-engineering" />
+</p>
 
 ---
 
