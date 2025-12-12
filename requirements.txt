@@ -1,0 +1,5 @@
+streamlit>=1.18.0
+openai>=0.27.0
+# optional providers - install if you plan to use them
+langchain-groq>=1.0.0
+ollama>=0.6.0

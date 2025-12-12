@@ -1,0 +1,7 @@
+[
+  {
+    "provider": "local-fallback",
+    "user": "give me prompt to ask scholl leave letter ",
+    "assistant": "[local-fallback]\nEcho:\ngive me prompt to ask scholl leave letter "
+  }
+]
